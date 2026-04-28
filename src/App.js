@@ -1,25 +1,26 @@
-import logo from './logo.svg';
+
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="container">
+      <img
+        src="https://via.placeholder.com/150"
+        alt="profile"
+        className="profile-img"
+      />
+      <h1>Mandan Codriva</h1>
+      <h3>Frontend Developer</h3>
+      <p>Passionate about React, Git, and UI Development.</p>
+      <ul>
+        <li>React JS</li>
+        <li>JavaScript</li>
+        <li>GitHub</li>
+      </ul>
+      <button>Contact Me</button>
     </div>
   );
 }
 
 export default App;
+
