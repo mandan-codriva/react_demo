@@ -9,7 +9,7 @@ function App() {
         alt="profile"
         className="profile-img"
       />
-      <h1>Mandan Codriva</h1>
+      <h1>mandan@codriva@gmail.com</h1>
       <h3>Associate Developer</h3>
       <p>Software Engineer </p>
       <ul>
