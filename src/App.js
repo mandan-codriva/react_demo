@@ -10,7 +10,7 @@ function App() {
         className="profile-img"
       />
       <h1>mandan@codriva@gmail.com</h1>
-      <h3>Associate Developer trainee</h3>
+      <h3>Associate software Developer</h3>
       <p>Software Engineer </p>
       <ul>
         <li>React JS</li>
