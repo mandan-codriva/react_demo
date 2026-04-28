@@ -5,13 +5,13 @@ function App() {
   return (
     <div className="container">
       <img
-        src="https://via.placeholder.com/150"
+        src="https://png.pngtree.com/png-vector/20231019/ourmid/pngtree-user-profile-avatar-png-image_10211467.png"
         alt="profile"
         className="profile-img"
       />
       <h1>Mandan Codriva</h1>
-      <h3>Frontend Developer</h3>
-      <p>Passionate about React, Git, and UI Development.</p>
+      <h3>Associate Developer</h3>
+      <p>Software Engineer </p>
       <ul>
         <li>React JS</li>
         <li>JavaScript</li>
