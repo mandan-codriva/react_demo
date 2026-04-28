@@ -14,7 +14,7 @@ function App() {
       <p>Software Engineer </p>
       <ul>
         <li>React JS</li>
-        <li>JavaScript</li>
+        <li>Java</li>
         <li>GitHub</li>
       </ul>
       <button>Contact Me</button>
