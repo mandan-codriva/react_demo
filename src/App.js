@@ -12,15 +12,18 @@ function App() {
       <h1>mandan@codriva@gmail.com</h1>
       <h2>Mandan Verma</h2>
       <h3>Associate Software Developer</h3>
+
       <p>
-        Expert in React JS, Next JS, TypeScript, and scalable UI systems.
+        Expert software engineer specializing in React JS, Next JS,
+        JavaScript, TypeScript, and scalable frontend architecture.
       </p>
 
-        <div className="experience">
+      <div className="experience">
         <span>5+ Years Experience</span>
         <span>50+ Projects Completed</span>
       </div>
-   <ul>
+
+      <ul>
         <li>React JS</li>
         <li>Next JS</li>
         <li>JavaScript</li>
@@ -31,7 +34,7 @@ function App() {
         <li>REST APIs</li>
       </ul>
 
-        <div className="social-links">
+      <div className="social-links">
         <a href="#">GitHub</a>
         <a href="#">LinkedIn</a>
         <a href="#">Portfolio</a>
